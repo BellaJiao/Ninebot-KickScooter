@@ -1,1 +1,3 @@
 # Ninebot-KickScooter
+
+User Manual
